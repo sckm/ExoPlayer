@@ -123,7 +123,7 @@ stack trace shows you where!). This is not safe and may result in unexpected or
 obscure errors.
 {:.info}
 
-For more information about ExoPlayer's treading model, see the
+For more information about ExoPlayer's threading model, see the
 ["Threading model" section of the ExoPlayer Javadoc][].
 
 ## Attaching the player to a view ##
